@@ -4,8 +4,6 @@ title: Thoughts
 permalink: /thoughts/
 ---
 
-## Here are some thoughts I've had recently
-
 ### Why are companies so bad at numbering their products?
 
 First of all: I don't care how you name your product models. Many corporations use complex model name structures that don't make much intuitive sense, which is fine:
