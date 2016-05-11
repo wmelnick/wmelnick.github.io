@@ -31,17 +31,27 @@ The real issue is that Apple is too lazy to release a new phone every year. Or: 
 [Microsoft](microsoft.com) makes <strike>digital prisons</strike> software. Their <strike>trojan horse</strike> main software is the operating system Windows. Let's look at Windows' release history. It seems like their marketing and engeneering staff may live on different planets.
 
 Intial versions (no distinct marketing names)
+
 + Windows v.1.x: Windows 1.x, released 1985.
+
 + Windows v.2.x: Windows 2.x, release in...blah blah, doesn't matter
+
 + Windows v.3.x: Windows 3.x, etc.
 
 Then:
+
 + Windows v.4.00: Windows 95, released in, that's right, 1995. Also, somebody will get mad for failing to mention 4.0 also includes Windows NT
+
 + Windows v.4.10: Windows 98, released in 1998.
+
 + Windows v.5.0: Windows 2000, released early 2000.
+
 + Windows v.4.9: Windows ME, released late 2000. Yes, this is true. Windows ME, though being an earlier version, was released several months after 2000)
+
 + Windows v.5.1: Windows XP, released in 2001, less than a year after the turd that was ME (it was based on NT, and by extension Windows 2000)
+
 + Windows v.6.0: Windows Vista, released in 2006, five years after XP. The main "Vista" was the BSOD, as I recall...
+
 + Windows v.6.1: Windows 7
 
 Let's take a break here to recap: The early versions were named after their software versions. Then, they were named after the year they were released. Windows ME was, as I recall, "Millenium Edition." I'll give them a pass for this. Windows XP, Vista--these names don't mean a thing. That's fine. I don't have a problem with marketing names. I have a problem with adults who can't count.
