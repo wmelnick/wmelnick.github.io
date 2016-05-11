@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Product Numbering
-permalink: /product_numbering
+title:  "Product Numbering"
+date:   2016-05-11 01:40:07 -0400
+categories:thoughts, musings, Am I Insane
 ---
 
 First of all: I don't care how you name your product models. Many corporations use complex model name structures that don't make much intuitive sense, which is fine:
