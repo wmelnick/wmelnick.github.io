@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Product Numbering
 permalink: /product_numbering
 ---
