@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi! I am Will. I am an Economist, Web developer, photographer, and anything else you will pay me to me.
+Hi! I am Will. I am an Economist, web developer, photographer, and anything else you will pay me to me.
 
-## Other Stuff:
+### Other Stuff:
 
 * [This](http://wsmelnick.com) contains a small collection of photographic work (technically **the photography of W.S. Melnick**, though you would not be incorrect in assuming the images could be considered **mine**)
 
-## Things I care about:
+### Things I care about:
 
 * [Co-op Power](http://cooppower.coop) is (in their words) "a multi-class, multi-racial movement for a sustainable and just energy future." They are a member-owned energy cooperative. They are doing a lot of great work in the Northeast United States, and I suggest you check them out (I also made their website).
 
