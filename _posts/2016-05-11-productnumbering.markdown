@@ -45,28 +45,26 @@ Then:
 
 + Windows v.5.0: Windows 2000, released early 2000.
 
-+ Windows v.4.9: Windows ME, released late 2000. Yes, this is true. Windows ME, though being an earlier version, was released several months after 2000)
++ Windows v.4.9: Windows ME, released late 2000. Yes, this is true. Windows ME, though being an earlier version, was released several months after Windows 2000)
 
-+ Windows v.5.1: Windows XP, released in 2001, less than a year after the turd that was ME (it was based on NT, and by extension Windows 2000)
++ Windows v.5.1: Windows XP, released in 2001, less than a year after the turd Windows ME (it was based on NT, and by extension Windows 2000)
 
-+ Windows v.6.0: Windows Vista, released in 2006, five years after XP. The main "Vista" was the BSOD, as I recall...
++ Windows v.6.0: Windows Vista, released in 2006, five years after XP. The main "Vista" in Windows Vista was the BSOD, as I recall...
 
 + Windows v.6.1: Windows 7
 
-Let's take a break here to recap: The early versions were named after their software versions. Then, they were named after the year they were released. Windows ME was, as I recall, "Millenium Edition." I'll give them a pass for this. Windows XP, Vista--these names don't mean a thing. That's fine. I don't have a problem with marketing names. I have a problem with adults who can't count.
+Let's take a break here to recap: The early versions were named after their software versions. Then, they were named after the year they were released. Windows ME was, as I recall, "Millenium Edition." I'll give them a pass for this. Windows XP, Vista -- these names don't mean a thing. That's fine. I don't have a problem with marketing names. I have a problem with adults who can't count.
 
-Why would they name Windows version 6.1 "Windows 7?" There is no reason for this. They could have named it something else. They probably could have named it "Windows 6.1" and gotten away with it (they can get away with anything, because everybody is chained by the you-know-what to their you-know-what, and we would have taken our 6.1. But we didn't. Get got Windows 6.1 masquarading as something it was not, Windows 7.
+Why would they name Windows version 6.1 "Windows 7?" There is no reason for this. They could have named it something else. They probably could have named it "Windows 6.1" and gotten away with it (they can get away with anything, because we are all in chains, and we would have taken our 6.1.) But no, we got Windows 6.1 masquarading as something it was not, Windows 7.
 
 + Windows v.6.2: Windows 8. Okay, now this is just stupid. This isn't even close. Now, you're thinking, "Well, they dug themselves into an iPhone-sized naming hole. How ever will they fix this mess?"
 
-The answer to that question, how can they solve this problem, this mess, has no answer, except maybe a stunt so rediculous, it would distract everybody from the versioning mess:
+The answer to that question, how can they solve this problem, fix this mess, has no answer. Perhaps, they could pull a stunt so rediculous, it would distract everybody from the versioning mess:
 
 + Windows v.6.4: Windows 10.
 
 "Oh, okay, here's what we do: let's skip Windows 9."
 "Um, ok. So Windows 10 will be Windows version 7.0, or what?"
-"Uhhh, we can't version it 7, because we used that name 6 years ago. We are sticking with 6.4."
+"Uhhh, we can't version it 7, because we released Windows 7 six years ago. We are sticking with 6.4."
 "What will we do next, though? We can't stick to version 6 forever, can we?"
-"We could always name the versions after types of cats...or cities in Washington..."
-"Goodbye."
-
+"We could always name the versions after types of dogs...or cities in Washington..."
