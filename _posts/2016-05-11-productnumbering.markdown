@@ -49,7 +49,7 @@ Then:
 
 + Windows v.5.1: Windows XP, released in 2001, less than a year after the turd Windows ME (it was based on NT, and by extension Windows 2000)
 
-+ Windows v.6.0: Windows Vista, released in 2006, five years after XP. The main "Vista" in Windows Vista was the BSOD, as I recall...
++ Windows v.6.0: Windows Vista, released in 2006, five years after XP. The main "Vista" in Windows Vista was the [BSOD](https://en.wikipedia.org/wiki/Blue_Screen_of_Death), as I recall...
 
 + Windows v.6.1: Windows 7
 
