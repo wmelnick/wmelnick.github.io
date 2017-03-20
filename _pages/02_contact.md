@@ -5,4 +5,4 @@ permalink: /contact/
 ---
 
 
-My e-mail is [will@willmelnick.net](mailto:will@willmelnick.net).
+My E-mail address is [will@willmelnick.net](mailto:will@willmelnick.net).
